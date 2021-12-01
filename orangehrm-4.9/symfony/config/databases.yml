@@ -1,0 +1,15 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=3306;dbname=orangehrm_mysql;charset=utf8mb4'
+      username: dmwangi
+      password: a>}6TG7nbqKcY68W
+      attributes: { export: tables }
+test:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=localhost;port=3306;dbname=test_orangehrm_mysql;charset=utf8mb4'
+      username: dmwangi
+      password: a>}6TG7nbqKcY68W

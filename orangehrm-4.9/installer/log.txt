@@ -1,0 +1,50 @@
+Client Info
+
+User Agent : Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36
+Remote Address : ::1
+
+Server Info
+
+Host : localhost
+PHP Version : 7.3.33
+Server : Apache/2.4.51 (Win64) OpenSSL/1.1.1l PHP/7.3.33
+Admin : postmaster@localhost
+
+Document Root : C:/xampp/htdocs
+ROOT_PATH : C:\xampp\htdocs\orangeHRM\orangehrm-4.9
+
+OrangeHRM Installation Log
+
+Wed, 01 Dec 2021 10:56:19 +0100 DB Creation - Starting
+Wed, 01 Dec 2021 10:56:19 +0100 DB Creation - Done
+Wed, 01 Dec 2021 10:56:19 +0100 DB Creation - No Errors
+Wed, 01 Dec 2021 10:56:22 +0100 Fill Data Phase 1 - Starting
+Wed, 01 Dec 2021 10:56:22 +0100 Fill Data Phase 1 - Connected to the DB Server
+Wed, 01 Dec 2021 10:56:22 +0100 Fill Data Phase 1 - Selected the DB
+Wed, 01 Dec 2021 10:56:22 +0100 Fill Data Phase 1 - Reading DB Script
+Wed, 01 Dec 2021 10:56:22 +0100 Fill Data Phase 1 - Opened DB Script
+Wed, 01 Dec 2021 10:56:22 +0100 Fill Data Phase 1 - Read DB script
+Wed, 01 Dec 2021 10:56:22 +0100 Fill Data Phase 1 - There are 325 Statements in the DB script
+Wed, 01 Dec 2021 10:56:27 +0100 MySQL Procedure Error:No database selected
+Wed, 01 Dec 2021 10:56:27 +0100 Fill Data Phase 1 - Done
+Wed, 01 Dec 2021 10:56:27 +0100 Fill Data Phase 1 - No Errors
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 2 - Starting
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 2 - Connected to the DB Server
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 2 - Selected the DB
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 2 - Reading DB Script
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 2 - Opened DB Script
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 2 - Read DB script
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 2 - There are 217 Statements in the DB script
+Wed, 01 Dec 2021 10:56:29 +0100 MySQL Event Error:No database selected
+Wed, 01 Dec 2021 10:56:29 +0100 Fill Data Phase 1 - Connected to the DB Server
+Wed, 01 Dec 2021 10:56:30 +0100 Fill Data Phase 2 - Done
+Wed, 01 Dec 2021 10:56:30 +0100 Fill Data Phase 2 - No Errors
+Wed, 01 Dec 2021 10:56:32 +0100 Create DB user - Starting
+Wed, 01 Dec 2021 10:56:32 +0100 Create DB user - Done
+Wed, 01 Dec 2021 10:56:32 +0100 Create DB user - No Errors
+Wed, 01 Dec 2021 10:56:34 +0100 Create OrangeHRM user - Starting
+Wed, 01 Dec 2021 10:56:34 +0100 Create OrangeHRM user - Done
+Wed, 01 Dec 2021 10:56:34 +0100 Create OrangeHRM user - No Errors
+Wed, 01 Dec 2021 10:56:36 +0100 Write Conf - Starting
+Wed, 01 Dec 2021 10:56:36 +0100 Write Conf - Done
+Wed, 01 Dec 2021 10:56:36 +0100 Write Conf - No Errors

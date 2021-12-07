@@ -1,19 +1,7 @@
-on my work computer!
 
-Successfully run usinf Xampp running `Apache v2.4 , MySQL(MariaDB), & PHP v7.3.33`
-
-
-PWD: "a>}6TG7nbqKcY68W"
-
-mysql://bfad8f64649c1f:a11cfa99@us-cdbr-east-04.cleardb.com/heroku_2714c7d888c86bc?reconnect=true
+shrouded-fortress-60273
 
 
-DataBase Name = "heroku_2714c7d888c86bc"
-
-Host name = "us-cdbr-east-04.cleardb.com"
-
-Username = "bfad8f64649c1f"
-pwd = "a11cfa99"
+mysql://bd5ce2163c84d9:ba257bd7@us-cdbr-east-04.cleardb.com/heroku_e99b53e78058bfe?reconnect=true
 
 
-[How to Deploy a PHP and MySQL Website on Heroku And Configure the Database](https://www.youtube.com/watch?v=EyEn5gREn_U)
